@@ -1,0 +1,12 @@
+langgraph>=1.2
+langchain
+langchain-groq
+langchain-chroma
+langchain-huggingface
+langsmith
+sentence-transformers
+chromadb
+python-dotenv
+pydantic>=2
+jupyter
+ipykernel
